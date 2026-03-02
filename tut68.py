@@ -1,0 +1,13 @@
+import turtle
+az = turtle.Turtle()
+az.shape("turtle")
+az.up()
+az.speed(1)
+az.circle(100)
+az.color("blue")
+az.circle(120)
+az.forward(20)
+az.left(30)
+az.forward(100)
+az.right(70)
+az.forward(100)

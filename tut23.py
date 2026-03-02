@@ -1,0 +1,6 @@
+w="welcome {}to{} pakistan".format("beatiful",92)
+print(w)
+w="welcome {1}to{0} pakistan".format("beatiful",92)
+print(w)
+w="welcome {b:^10}to{a:<10} pakistan".format(a=30,b=40)
+print(w)
